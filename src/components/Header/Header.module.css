@@ -26,3 +26,6 @@
     border:0;
     outline: 0;
 }
+.button:hover {
+    background: #999;
+}
